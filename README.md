@@ -1,6 +1,10 @@
+
+
+
+
 This is lamp stack
 ==============================================================================
-=             MYSQL DB CREATION SCRIPT                                       =
+=                                                                            =
 =       BY : RAJENDRA SINGH RANA........................                     =
 =                       {{{{{THIS SCRIPT IS STILL UNDER TESTING}}}}}}        =
 =      THANK YOU FOR CHOOSING MY SCRIPT                                      =
